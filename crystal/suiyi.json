@@ -1,0 +1,52 @@
+{
+  "log_id": 2794890503604904799,
+  "direction": 2,
+  "words_result_num": 5,
+  "words_result": [
+    {
+      "location": {
+        "width": 122,
+        "top": 352,
+        "left": 424,
+        "height": 34
+      },
+      "words": "数据结构"
+    },
+    {
+      "location": {
+        "width": 125,
+        "top": 293,
+        "left": 308,
+        "height": 35
+      },
+      "words": "这是C语言的"
+    },
+    {
+      "location": {
+        "width": 157,
+        "top": 231,
+        "left": 72,
+        "height": 36
+      },
+      "words": "函数调用"
+    },
+    {
+      "location": {
+        "width": 67,
+        "top": 169,
+        "left": 365,
+        "height": 35
+      },
+      "words": "算法啊啊啊"
+    },
+    {
+      "location": {
+        "width": 126,
+        "top": 107,
+        "left": 218,
+        "height": 33
+      },
+      "words": "函数"
+    }
+  ]
+}

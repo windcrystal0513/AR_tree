@@ -1,0 +1,302 @@
+{
+  "log_id": 8509436459986702116,
+  "direction": 0,
+  "words_result_num": 8,
+  "words_result": [
+    {
+      "location": {
+        "width": 85,
+        "top": 35,
+        "left": 504,
+        "height": 22
+      },
+      "words": "ouo nA"
+    },
+    {
+      "location": {
+        "width": 110,
+        "top": 113,
+        "left": 118,
+        "height": 28
+      },
+      "words": "增强现实"
+    },
+    {
+      "location": {
+        "width": 55,
+        "top": 150,
+        "left": 208,
+        "height": 30
+      },
+      "words": "函数"
+    },
+    {
+      "location": {
+        "width": 105,
+        "top": 195,
+        "left": 279,
+        "height": 31
+      },
+      "words": " 函数调用"
+    },
+    {
+      "location": {
+        "width": 101,
+        "top": 237,
+        "left": 369,
+        "height": 28
+      },
+      "words": "内存管理"
+    },
+    {
+      "location": {
+        "width": 101,
+        "top": 271,
+        "left": 207,
+        "height": 28
+      },
+      "words": "数据结构"
+    },
+    {
+      "location": {
+        "width": 96,
+        "top": 307,
+        "left": 139,
+        "height": 27
+      },
+      "words": "系统调用"
+    },
+    {
+      "location": {
+        "width": 116,
+        "top": 349,
+        "left": 300,
+        "height": 31
+      },
+      "words": "计算机视觉"
+    }
+  ]
+}
+
+{
+  "log_id": 4769434850062343683,
+  "direction": 2,
+  "words_result_num": 7,
+  "words_result": [
+    {
+      "location": {
+        "width": 108,
+        "top": 324,
+        "left": 411,
+        "height": 30
+      },
+      "words": "增强现实"
+    },
+    {
+      "location": {
+        "width": 60,
+        "top": 286,
+        "left": 369,
+        "height": 28
+      },
+      "words": "函数调用"
+    },
+    {
+      "location": {
+        "width": 116,
+        "top": 242,
+        "left": 232,
+        "height": 32
+      },
+      "words": "网络原理函数"
+    },
+    {
+      "location": {
+        "width": 117,
+        "top": 200,
+        "left": 129,
+        "height": 31
+      },
+      "words": "内存管理"
+    },
+    {
+      "location": {
+        "width": 113,
+        "top": 152,
+        "left": 315,
+        "height": 31
+      },
+      "words": "数据结构"
+    },
+    {
+      "location": {
+        "width": 108,
+        "top": 107,
+        "left": 396,
+        "height": 31
+      },
+      "words": "系统调用"
+    },
+    {
+      "location": {
+        "width": 139,
+        "top": 58,
+        "left": 181,
+        "height": 35
+      },
+      "words": "计算机视觉"
+    }
+  ]
+}
+
+
+{
+  "log_id": 4615313097235435812,
+  "direction": 3,
+  "words_result_num": 7,
+  "words_result": [
+    {
+      "location": {
+        "width": 26,
+        "top": 75,
+        "left": 347,
+        "height": 87
+      },
+      "words": "增强现实"
+    },
+    {
+      "location": {
+        "width": 22,
+        "top": 150,
+        "left": 316,
+        "height": 47
+      },
+      "words": "函数"
+    },
+    {
+      "location": {
+        "width": 26,
+        "top": 212,
+        "left": 279,
+        "height": 90
+      },
+      "words": "网络原理"
+    },
+    {
+      "location": {
+        "width": 25,
+        "top": 292,
+        "left": 244,
+        "height": 91
+      },
+      "words": "内存管理"
+    },
+    {
+      "location": {
+        "width": 23,
+        "top": 151,
+        "left": 211,
+        "height": 88
+      },
+      "words": "数据结构"
+    },
+    {
+      "location": {
+        "width": 23,
+        "top": 88,
+        "left": 176,
+        "height": 87
+      },
+      "words": "系统调用"
+    },
+    {
+      "location": {
+        "width": 26,
+        "top": 228,
+        "left": 139,
+        "height": 113
+      },
+      "words": "计算机视觉"
+    }
+  ]
+}
+
+{
+  "log_id": 6160224021367440292,
+  "direction": 1,
+  "words_result_num": 8,
+  "words_result": [
+    {
+      "location": {
+        "width": 22,
+        "top": 289,
+        "left": 201,
+        "height": 79
+      },
+      "words": "增强现实"
+    },
+    {
+      "location": {
+        "width": 20,
+        "top": 256,
+        "left": 231,
+        "height": 43
+      },
+      "words": "函数"
+    },
+    {
+      "location": {
+        "width": 22,
+        "top": 160,
+        "left": 260,
+        "height": 80
+      },
+      "words": "网络原理"
+    },
+    {
+      "location": {
+        "width": 22,
+        "top": 86,
+        "left": 291,
+        "height": 81
+      },
+      "words": "内存管理"
+    },
+    {
+      "location": {
+        "width": 22,
+        "top": 215,
+        "left": 326,
+        "height": 85
+      },
+      "words": "数据结构"
+    },
+    {
+      "location": {
+        "width": 23,
+        "top": 275,
+        "left": 358,
+        "height": 81
+      },
+      "words": "系统调用"
+    },
+    {
+      "location": {
+        "width": 22,
+        "top": 121,
+        "left": 390,
+        "height": 105
+      },
+      "words": "计算机视觉"
+    },
+    {
+      "location": {
+        "width": 84,
+        "top": 36,
+        "left": 505,
+        "height": 18
+      },
+      "words": "O=65>"
+    }
+  ]
+}

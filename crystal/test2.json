@@ -1,0 +1,613 @@
+{
+	"errno": 0,
+	"msg": "success",
+	"data": {
+		"log_id": "4140057861966318611",
+		"direction": 0,
+		"words_result_num": 43,
+		"words_result": [
+			{
+				"words": "12导论",
+				"location": {
+					"width": 393,
+					"top": 21,
+					"left": 281,
+					"height": 70
+				},
+				"probability": {
+					"variance": 0.009172,
+					"average": 0.909905,
+					"min": 0.771444
+				}
+			},
+			{
+				"words": "所有这些都指向了或许是C++的最强之处:它能够有效地用到那些需要在各种各样的不同",
+				"location": {
+					"width": 2174,
+					"top": 136,
+					"left": 326,
+					"height": 139
+				},
+				"probability": {
+					"variance": 0.000025,
+					"average": 0.998603,
+					"min": 0.969152
+				}
+			},
+			{
+				"words": "应用领域中工作的应用系统上。很容易找到一个应用系统,其中涉及到局域网络或者广域网",
+				"location": {
+					"width": 2266,
+					"top": 225,
+					"left": 225,
+					"height": 131
+				},
+				"probability": {
+					"variance": 0.000005,
+					"average": 0.999342,
+					"min": 0.985663
+				}
+			},
+			{
+				"words": "络、数值处理、图形、与用户的交互,以及数据库访问等。在传统上,这些应用领域被认为",
+				"location": {
+					"width": 2266,
+					"top": 304,
+					"left": 225,
+					"height": 150
+				},
+				"probability": {
+					"variance": 0.000018,
+					"average": 0.998527,
+					"min": 0.973969
+				}
+			},
+			{
+				"words": "是不同的,最常见的情况是它们由不同的技术团体使用各自的程序设计语言去处理。然而,",
+				"location": {
+					"width": 2259,
+					"top": 393,
+					"left": 226,
+					"height": 143
+				},
+				"probability": {
+					"variance": 0.00004,
+					"average": 0.997694,
+					"min": 0.963508
+				}
+			},
+			{
+				"words": "C++已经被应用于所有的这些领域。进一步说,它还能与用其他语言写出的代码片段或者程",
+				"location": {
+					"width": 2273,
+					"top": 460,
+					"left": 225,
+					"height": 177
+				},
+				"probability": {
+					"variance": 0.000121,
+					"average": 0.996501,
+					"min": 0.931641
+				}
+			},
+			{
+				"words": "序共存",
+				"location": {
+					"width": 180,
+					"top": 621,
+					"left": 237,
+					"height": 67
+				},
+				"probability": {
+					"variance": 0,
+					"average": 0.999959,
+					"min": 0.9999
+				}
+			},
+			{
+				"words": "C++被广泛应用于教学和研究。这很令一些人吃惊,因为有些人曾经一正确地—指",
+				"location": {
+					"width": 2154,
+					"top": 646,
+					"left": 338,
+					"height": 138
+				},
+				"probability": {
+					"variance": 0.003954,
+					"average": 0.986082,
+					"min": 0.624822
+				}
+			},
+			{
+				"words": "出,C++并不是已经设计出的各种语言中最小和最清晰的。但不管怎样,它是:",
+				"location": {
+					"width": 1903,
+					"top": 731,
+					"left": 235,
+					"height": 147
+				},
+				"probability": {
+					"variance": 0.00006,
+					"average": 0.99734,
+					"min": 0.957558
+				}
+			},
+			{
+				"words": "一对于教授基本概念而言足够清晰的。",
+				"location": {
+					"width": 1011,
+					"top": 857,
+					"left": 340,
+					"height": 76
+				},
+				"probability": {
+					"variance": 0.011063,
+					"average": 0.97309,
+					"min": 0.552407
+				}
+			},
+			{
+				"words": "对于深刻的项目而言足够现实、高效和灵活的。",
+				"location": {
+					"width": 1139,
+					"top": 928,
+					"left": 411,
+					"height": 101
+				},
+				"probability": {
+					"variance": 0.000006,
+					"average": 0.998902,
+					"min": 0.990261
+				}
+			},
+			{
+				"words": "63",
+				"location": {
+					"width": 79,
+					"top": 923,
+					"left": 2271,
+					"height": 38
+				},
+				"probability": {
+					"variance": 0.036337,
+					"average": 0.592937,
+					"min": 0.402314
+				}
+			},
+			{
+				"words": "对依赖各种不同开发和执行环境的组织或研究机构而言,使用起来足够方便。",
+				"location": {
+					"width": 2167,
+					"top": 985,
+					"left": 343,
+					"height": 131
+				},
+				"probability": {
+					"variance": 0.000001,
+					"average": 0.999387,
+					"min": 0.995546
+				}
+			},
+			{
+				"words": "对作为教高级概念和技术的媒介而言,足够的容易理解。",
+				"location": {
+					"width": 1380,
+					"top": 1095,
+					"left": 412,
+					"height": 97
+				},
+				"probability": {
+					"variance": 0.000001,
+					"average": 0.999524,
+					"min": 0.996919
+				}
+			},
+			{
+				"words": "对作为从学习到非学术使用的工具而言,也足够的商业化。",
+				"location": {
+					"width": 1417,
+					"top": 1178,
+					"left": 414,
+					"height": 95
+				},
+				"probability": {
+					"variance": 0.000023,
+					"average": 0.998354,
+					"min": 0.975203
+				}
+			},
+			{
+				"words": "是园++0",
+				"location": {
+					"width": 375,
+					"top": 1199,
+					"left": 1991,
+					"height": 81
+				},
+				"probability": {
+					"variance": 0.032139,
+					"average": 0.794181,
+					"min": 0.497795
+				}
+			},
+			{
+				"words": "C++是一个可以伴随你成长的语言。",
+				"location": {
+					"width": 870,
+					"top": 1277,
+					"left": 248,
+					"height": 79
+				},
+				"probability": {
+					"variance": 0.000021,
+					"average": 0.997535,
+					"min": 0.982037
+				}
+			},
+			{
+				"words": "1.6C和C+",
+				"location": {
+					"width": 792,
+					"top": 1350,
+					"left": 248,
+					"height": 154
+				},
+				"probability": {
+					"variance": 0.010181,
+					"average": 0.904111,
+					"min": 0.703534
+				}
+			},
+			{
+				"words": "的旗",
+				"location": {
+					"width": 299,
+					"top": 1414,
+					"left": 2215,
+					"height": 77
+				},
+				"probability": {
+					"variance": 0.026086,
+					"average": 0.769468,
+					"min": 0.607956
+				}
+			},
+			{
+				"words": "C被选作C++的基础语言是因为它",
+				"location": {
+					"width": 816,
+					"top": 1527,
+					"left": 359,
+					"height": 74
+				},
+				"probability": {
+					"variance": 0.000052,
+					"average": 0.995877,
+					"min": 0.976289
+				}
+			},
+			{
+				"words": "[是通用的、简洁的、相对低级的",
+				"location": {
+					"width": 866,
+					"top": 1614,
+					"left": 349,
+					"height": 74
+				},
+				"probability": {
+					"variance": 0.000008,
+					"average": 0.997543,
+					"min": 0.990824
+				}
+			},
+			{
+				"words": "[2]适合用于大部分系统程序设计工作。",
+				"location": {
+					"width": 1279,
+					"top": 1690,
+					"left": 265,
+					"height": 83
+				},
+				"probability": {
+					"variance": 0.000327,
+					"average": 0.990461,
+					"min": 0.944288
+				}
+			},
+			{
+				"words": "出甲",
+				"location": {
+					"width": 340,
+					"top": 1676,
+					"left": 2177,
+					"height": 70
+				},
+				"probability": {
+					"variance": 0.055795,
+					"average": 0.759401,
+					"min": 0.52319
+				}
+			},
+			{
+				"words": "3]可以在每个地方的任何系统上运行。一",
+				"location": {
+					"width": 1284,
+					"top": 1754,
+					"left": 317,
+					"height": 97
+				},
+				"probability": {
+					"variance": 0.025797,
+					"average": 0.932464,
+					"min": 0.477801
+				}
+			},
+			{
+				"words": "[4]适应于UNX程序设计环境",
+				"location": {
+					"width": 730,
+					"top": 1857,
+					"left": 359,
+					"height": 79
+				},
+				"probability": {
+					"variance": 0.000314,
+					"average": 0.99328,
+					"min": 0.929578
+				}
+			},
+			{
+				"words": "C有它的问题,但一个从空白出发设计的语言也必然会有一些问题,况且我们了解C的问题。",
+				"location": {
+					"width": 2252,
+					"top": 1924,
+					"left": 260,
+					"height": 95
+				},
+				"probability": {
+					"variance": 0.000699,
+					"average": 0.993792,
+					"min": 0.827724
+				}
+			},
+			{
+				"words": "更重要的是,从C出发已经使“带类的C”成了一个有用的工具(或许还比较笨拙),而且只",
+				"location": {
+					"width": 2247,
+					"top": 2011,
+					"left": 262,
+					"height": 86
+				},
+				"probability": {
+					"variance": 0.000049,
+					"average": 0.996797,
+					"min": 0.969884
+				}
+			},
+			{
+				"words": "是在开始想到要将类似 Simula的类加到c上之后没几个月的时间。",
+				"location": {
+					"width": 1623,
+					"top": 2101,
+					"left": 265,
+					"height": 74
+				},
+				"probability": {
+					"variance": 0.009151,
+					"average": 0.975575,
+					"min": 0.498769
+				}
+			},
+			{
+				"words": "随着C++的使用变得更为广泛,以及它所提供的覆盖和超越C的功能变得更加重要,关于",
+				"location": {
+					"width": 2140,
+					"top": 2181,
+					"left": 375,
+					"height": 74
+				},
+				"probability": {
+					"variance": 0.000083,
+					"average": 0.996734,
+					"min": 0.946001
+				}
+			},
+			{
+				"words": "是否还应该保持兼容性的问题又一再地被提出来。很清楚,如果抛弃C的某些传统就可以避免",
+				"location": {
+					"width": 2247,
+					"top": 2264,
+					"left": 271,
+					"height": 76
+				},
+				"probability": {
+					"variance": 0.0003,
+					"average": 0.99429,
+					"min": 0.89804
+				}
+			},
+			{
+				"words": "一些问题(参见,例如[ Sethi,19811)。这些都没有做,因为:",
+				"location": {
+					"width": 1449,
+					"top": 2346,
+					"left": 271,
+					"height": 74
+				},
+				"probability": {
+					"variance": 0.013295,
+					"average": 0.965204,
+					"min": 0.465883
+				}
+			},
+			{
+				"words": "[在着成百万行的C代码可能从C++中获益,先决条件是不必将它们完全从C重新写",
+				"location": {
+					"width": 2140,
+					"top": 2424,
+					"left": 370,
+					"height": 79
+				},
+				"probability": {
+					"variance": 0.000236,
+					"average": 0.994744,
+					"min": 0.907516
+				}
+			},
+			{
+				"words": "成C++。",
+				"location": {
+					"width": 265,
+					"top": 2514,
+					"left": 393,
+					"height": 65
+				},
+				"probability": {
+					"variance": 0.000222,
+					"average": 0.986245,
+					"min": 0.965065
+				}
+			},
+			{
+				"words": "[2]存在着成百万行用C写出的库函数和功能软件代码可以从C++程序里使用,或者在",
+				"location": {
+					"width": 2154,
+					"top": 2579,
+					"left": 363,
+					"height": 92
+				},
+				"probability": {
+					"variance": 0.000311,
+					"average": 0.993234,
+					"min": 0.918467
+				}
+			},
+			{
+				"words": "C++程序之上使用;先决条件是C++能够与C连接兼容,且在语法上与C类似。",
+				"location": {
+					"width": 2060,
+					"top": 2670,
+					"left": 458,
+					"height": 77
+				},
+				"probability": {
+					"variance": 0.000122,
+					"average": 0.994773,
+					"min": 0.954373
+				}
+			},
+			{
+				"words": "[3]存在着数以十万计的程序员了解C语言,只需要去学习C++新特征的使用,而不想去",
+				"location": {
+					"width": 2123,
+					"top": 2751,
+					"left": 388,
+					"height": 81
+				},
+				"probability": {
+					"variance": 0.000355,
+					"average": 0.991719,
+					"min": 0.92692
+				}
+			},
+			{
+				"words": "重新学习基础。",
+				"location": {
+					"width": 359,
+					"top": 2836,
+					"left": 469,
+					"height": 62
+				},
+				"probability": {
+					"variance": 0,
+					"average": 0.999868,
+					"min": 0.999366
+				}
+			},
+			{
+				"words": "[4]C++和C将在许多年中被同一些人用于同样的系统,因此其差异必须或者是很小,或",
+				"location": {
+					"width": 2179,
+					"top": 2902,
+					"left": 347,
+					"height": 115
+				},
+				"probability": {
+					"variance": 0.007117,
+					"average": 0.982994,
+					"min": 0.45856
+				}
+			},
+			{
+				"words": "者是很大,以最大限度地减少错误和混乱的发生。",
+				"location": {
+					"width": 1166,
+					"top": 2996,
+					"left": 471,
+					"height": 83
+				},
+				"probability": {
+					"variance": 0.000002,
+					"average": 0.999266,
+					"min": 0.99612
+				}
+			},
+			{
+				"words": "C++的定义已经做了许多修订,以保证任何同时在C和C++里合法的结构在两个语言中都具",
+				"location": {
+					"width": 2250,
+					"top": 3061,
+					"left": 285,
+					"height": 134
+				},
+				"probability": {
+					"variance": 0.000167,
+					"average": 0.995449,
+					"min": 0.931628
+				}
+			},
+			{
+				"words": "有同样的意义(除了少量例外;B.2节)。,wbu管没 TRaINoR aMoA",
+				"location": {
+					"width": 2268,
+					"top": 3136,
+					"left": 287,
+					"height": 157
+				},
+				"probability": {
+					"variance": 0.06792,
+					"average": 0.830614,
+					"min": 0.17776
+				}
+			},
+			{
+				"words": "C语言本身也在发展和演化,部分地是在C++开发的影响之下[ Rosler,1984]。ANSC标",
+				"location": {
+					"width": 2153,
+					"top": 3219,
+					"left": 388,
+					"height": 168
+				},
+				"probability": {
+					"variance": 0.008262,
+					"average": 0.967153,
+					"min": 0.501733
+				}
+			},
+			{
+				"words": "准IC,19901就包含了从“带类的C”借去的函数声明语法。借鉴是双向的,例如vid指针类",
+				"location": {
+					"width": 2254,
+					"top": 3295,
+					"left": 287,
+					"height": 184
+				},
+				"probability": {
+					"variance": 0.018507,
+					"average": 0.952793,
+					"min": 0.40911
+				}
+			}
+		]
+	}
+}
